@@ -1,121 +1,93 @@
-# 🌐 Redes de Computadores: LAN, MAN, WAN e Wireless
+# 🌐 Redes de Computadores – Guia Rápido Keywords
 
-Este documento apresenta os conceitos fundamentais sobre os principais tipos de redes de computadores, incluindo suas características, aplicações e palavras-chave essenciais para estudo e aprofundamento.
-
----
-
-## 📍 LAN – Local Area Network
-
-**Definição:**  
-Rede de área local, usada para conectar dispositivos dentro de uma área geograficamente limitada, como uma casa, escritório ou prédio.
-
-**Características:**
-- Alta velocidade (até 1 Gbps ou mais).
-- Baixa latência.
-- Propriedade privada.
-- Uso de cabos Ethernet ou conexões Wi-Fi.
-
-**Exemplos:**
-- Rede de computadores de uma escola.
-- Impressoras conectadas em rede dentro de uma empresa.
+Este guia tem como objetivo apresentar uma visão resumida dos principais tipos de redes e destacar os termos mais importantes para quem estuda redes de computadores e conectividade sem fio.
 
 ---
 
-## 🌆 MAN – Metropolitan Area Network
+## 📌 Tipos de Redes (Resumo)
 
-**Definição:**  
-Rede de área metropolitana, que interliga várias LANs dentro de uma cidade ou região metropolitana.
+### 🔹 **LAN – Local Area Network**
+Rede local, usada em casas, escritórios e escolas. Alta velocidade, curta distância, geralmente com cabeamento Ethernet ou Wi-Fi.
 
-**Características:**
-- Abrangência maior que a LAN.
-- Pode ser administrada por empresas, universidades ou governos.
-- Utiliza infraestrutura como fibra óptica e enlaces de rádio.
+### 🔹 **MAN – Metropolitan Area Network**
+Rede metropolitana, conecta LANs dentro de uma cidade ou região. Usada por universidades, empresas ou governos.
 
-**Exemplos:**
-- Rede que conecta os campi de uma universidade espalhados pela cidade.
-- Conexões de provedores de internet (ISP) em áreas urbanas.
+### 🔹 **WAN – Wide Area Network**
+Rede de longa distância (nacional/internacional). Conecta múltiplas LANs e MANs por meio de infraestrutura pública ou privada (como internet, satélites, MPLS).
 
----
-
-## 🌍 WAN – Wide Area Network
-
-**Definição:**  
-Rede de área ampla, usada para conectar redes LAN e MAN em grandes distâncias (países ou continentes).
-
-**Características:**
-- Lenta em comparação com LAN.
-- Abrange grandes áreas geográficas.
-- Uso de links dedicados, satélites e redes públicas.
-
-**Exemplos:**
-- A própria internet.
-- Redes corporativas intercontinentais (com VPNs ou MPLS).
+### 🔹 **Wireless**
+Transmissão de dados sem fio (Wi-Fi, Bluetooth, NFC). Baseada em padrões como IEEE 802.11 e técnicas de criptografia (WPA2, WPA3).
 
 ---
 
-## 📡 Redes Wireless
+## 🧩 Palavras-chave Essenciais (Keywords)
 
-**Definição:**  
-Qualquer rede que use ondas de rádio ou infravermelho para transmitir dados, sem a necessidade de cabos físicos.
-
-**Tipos Comuns:**
-- **Wi-Fi:** Redes locais sem fio.
-- **Bluetooth:** Comunicação entre dispositivos próximos.
-- **NFC:** Comunicação de curto alcance, como pagamentos por aproximação.
-
-**Tecnologias:**
-- Padrões IEEE 802.11 (a/b/g/n/ac/ax).
-- Criptografia (WEP, WPA, WPA2, WPA3).
-- Frequências: 2.4 GHz e 5 GHz.
-
----
-
-## 🧩 Palavras-chave (Keywords)
-
-### 🔌 Conectividade
-- Wireless
-- Wi-Fi
-- Bluetooth
-- NFC
-- Access Point
-- Wireless Adapter
-
-### 🏠 LAN
-- Ethernet
-- Switch
-- Router
-- Hub
-- DHCP
-- DNS
-- IP Address
-- Subnet
-
-### 🌆 MAN
-- Metro Ethernet
-- Backbone
-- Regional ISP
-- Fibra Óptica
-
-### 🌍 WAN
-- Internet
-- VPN
-- MPLS
-- Satélite
-- BGP, OSPF (protocolos de roteamento)
-
-### 🔒 Segurança
-- Firewall
-- Proxy
-- IDS (Intrusion Detection System)
-- QoS (Quality of Service)
-- Criptografia
+### 📡 **Wireless & Comunicação Sem Fio**
+- Wireless  
+- Wi-Fi (2.4 GHz / 5 GHz)  
+- Access Point (AP)  
+- Wireless Adapter  
+- Bluetooth  
+- NFC  
+- Signal Interference  
+- SSID  
+- IEEE 802.11 (a/b/g/n/ac/ax)  
+- WEP / WPA / WPA2 / WPA3  
+- Hotspot  
 
 ---
 
-## 📘 Conclusão
-
-Entender os diferentes tipos de redes é essencial para projetar, implementar e gerenciar infraestruturas modernas de comunicação. Do Wi-Fi doméstico à internet global, cada tipo de rede tem seu papel e tecnologia específica, e conhecer seus conceitos ajuda a compreender melhor o funcionamento da conectividade no mundo atual.
+### 🏠 **LAN (Rede Local)**
+- Ethernet  
+- Switch  
+- Hub  
+- Router  
+- IP Address  
+- MAC Address  
+- Subnet Mask  
+- DHCP (Dynamic Host Configuration Protocol)  
+- DNS (Domain Name System)  
+- Topologias de Rede (Estrela, Barramento, Anel)  
 
 ---
 
-> *Criado por: João Henrique Arantes | Estudo de Redes – 2025*
+### 🌆 **MAN (Rede Metropolitana)**
+- Metro Ethernet  
+- Rede Pública x Privada  
+- ISP (Internet Service Provider)  
+- Backbone Regional  
+- Fibra Óptica  
+
+---
+
+### 🌍 **WAN (Rede Ampla)**
+- Internet  
+- VPN (Virtual Private Network)  
+- MPLS (Multiprotocol Label Switching)  
+- Leased Line  
+- Satélite  
+- Protocolos de Roteamento: BGP, OSPF  
+
+---
+
+### 🔒 **Segurança, Desempenho e Gerenciamento**
+- Firewall  
+- IDS / IPS  
+- Proxy  
+- NAT (Network Address Translation)  
+- Bandwidth  
+- Latency  
+- QoS (Quality of Service)  
+- Packet Sniffer  
+- Ping / Traceroute  
+
+---
+
+## ✅ Para que serve isso?
+
+Essas palavras-chave formam a base para o estudo e prática em redes de computadores, seja na configuração de uma rede doméstica, no entendimento da arquitetura da internet ou no preparo para certificações como **CCNA**, **Network+**, ou exames de faculdades.
+
+---
+
+> *Autor: João Henrique Arantes*  
+> *Versão: 2025 – Guia de Estudo Rápido*
